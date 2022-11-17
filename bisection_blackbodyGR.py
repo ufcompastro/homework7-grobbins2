@@ -1,3 +1,4 @@
+#homework 7 worked on by Grady Robbins
 import numpy as np
 
 def B(T):
